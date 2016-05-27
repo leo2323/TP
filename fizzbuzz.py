@@ -14,13 +14,13 @@ es decir que el resto debe ser 0 muestra la FIZZ, Si es multiplo de 5 y el resto
 a=1
 while a<=100 :
 if a%3  == 0:
-    print "Fizz"
+        print "Fizz"
       
 if a% 5 == 0 :
-    print "Buzz"
+        print "Buzz"
     
 else  :
-    print a
+        print a
     
 a = a+1
 
