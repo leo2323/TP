@@ -13,15 +13,15 @@ es decir que el resto debe ser 0 muestra la FIZZ, Si es multiplo de 5 y el resto
   
 a=1
 while a<=100 :
-if a%3  == 0:
+    if a%3  == 0:
         print "Fizz"
       
-if a% 5 == 0 :
+    if a% 5 == 0 :
         print "Buzz"
     
-else  :
+    else  :
         print a
     
-a = a+1
+    a = a+1
 
 
