@@ -3,6 +3,7 @@
 #Si es de 5 muestra buss
 #si es de ambos fissbuzz
 #si no muestra el numero
+#version2
 
 #pseudo codigo  DESIGN
 
